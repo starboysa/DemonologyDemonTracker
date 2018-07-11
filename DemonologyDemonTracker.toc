@@ -14,5 +14,6 @@
 ##
 ## Interface: 70300
 ## Title: Demonology Demon Tracker
+## Version: 1.0
 ## Notes: Adds a small UI component to track the lifetimes of Demonology Warlock's temporary demon summons.
 DemonologyDemonTracker.lua
